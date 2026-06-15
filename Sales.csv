@@ -1,0 +1,310 @@
+﻿Order Id,Date,Customer Id,Customer Name,City,State,Segment,Salesperson,Product,Category,Quantity,Unit Price,Discount Pct,Discount Amt,Net Sale,Interactions,Email Opens,Customer Rating,Is Repeat Customer,Payment Method
+2001,01-01-2024,5041,Customer_290,Bangalore,Karnataka,Platinum,Deepa,Webcam,Peripherals,4,4500,0.06,1080,16920,15,0,3.3,1,UPI
+2002,02-01-2024,5054,Customer_632,Mumbai,Maharashtra,Bronze,Arjun,Accessories,Accessories,8,3500,0.16,4480,23520,2,12,4.9,1,Debit Card
+2003,03-01-2024,5046,Customer_326,Bangalore,Karnataka,Platinum,Deepa,Monitor,Electronics,4,35000,0.19,26600,113400,10,3,4.6,0,Credit Card
+2004,04-01-2024,5060,Customer_412,Kolkata,West Bengal,Silver,Vikram,Webcam,Peripherals,8,4500,0.16,5760,30240,12,9,4.2,1,Net Banking
+2005,05-01-2024,5060,Customer_728,Bangalore,Karnataka,Platinum,Vikram,Tablet,Electronics,8,18000,0.14,20160,123840,17,8,2.8,0,Net Banking
+2006,06-01-2024,5057,Customer_401,Hyderabad,Telangana,Bronze,Arjun,Monitor,Electronics,5,35000,0.1,17500,157500,8,13,3.7,1,UPI
+2007,07-01-2024,5031,Customer_753,Jaipur,Rajasthan,Silver,Deepa,Monitor,Electronics,4,35000,0.02,2800,137200,11,10,3.8,0,Debit Card
+2008,08-01-2024,5084,Customer_559,Kolkata,West Bengal,Platinum,Vikram,Webcam,Peripherals,2,4500,0.19,1710,7290,3,6,3.1,0,Credit Card
+2009,09-01-2024,5024,Customer_500,Hyderabad,Telangana,Silver,Mohan,Phone,Electronics,3,25000,0.15,11250,63750,6,14,2.7,1,Net Banking
+2010,10-01-2024,5089,Customer_650,Delhi,Delhi,Silver,Deepa,Tablet,Electronics,3,18000,0.13,7020,46980,9,11,4.4,0,UPI
+2011,11-01-2024,5036,Customer_492,Delhi,Delhi,Gold,,Webcam,Peripherals,4,4500,0.15,2700,15300,6,9,2.8,1,Debit Card
+2012,12-01-2024,5085,Customer_966,Jaipur,Rajasthan,Silver,Vikram,Tablet,Electronics,4,18000,0.14,10080,61920,9,6,4,1,Debit Card
+2013,13-01-2024,5030,Customer_863,Jaipur,Rajasthan,Silver,Sunita,Tablet,Electronics,10,18000,0.13,23400,156600,7,12,4.8,0,UPI
+2014,14-01-2024,5024,Customer_944,Kolkata,West Bengal,Silver,Vikram,Monitor,Electronics,5,35000,0.2,35000,140000,9,14,4.7,0,UPI
+2015,15-01-2024,5030,Customer_306,Mumbai,Maharashtra,Platinum,Mohan,Accessories,Accessories,4,3500,0.18,2520,11480,18,6,3.2,1,Debit Card
+2016,16-01-2024,5086,Customer_309,Jaipur,Rajasthan,Bronze,Ravi,Tablet,Electronics,10,18000,0.13,23400,156600,12,14,4.6,0,Debit Card
+2017,17-01-2024,5092,Customer_214,Delhi,Delhi,Bronze,Anjali,Keyboard,Peripherals,8,2500,0.14,2800,17200,8,7,2.5,1,UPI
+2018,18-01-2024,5007,Customer_836,Bangalore,Karnataka,Platinum,Priya,Monitor,Electronics,6,35000,0.01,2100,207900,8,0,2.5,1,Debit Card
+2019,19-01-2024,5035,Customer_745,Hyderabad,Telangana,Platinum,,Phone,Electronics,6,25000,0.13,19500,130500,18,9,4,1,Credit Card
+2020,20-01-2024,5055,Customer_350,Delhi,Delhi,Silver,Ravi,Accessories,Accessories,8,3500,0.01,280,27720,15,12,3.4,1,Debit Card
+2021,21-01-2024,5092,Customer_318,Delhi,Delhi,Silver,Vikram,Keyboard,Peripherals,7,2500,0.12,2100,15400,7,9,3.5,1,UPI
+2022,22-01-2024,5014,Customer_506,Mumbai,Maharashtra,Bronze,Sunita,Keyboard,Peripherals,10,2500,0.2,5000,20000,11,7,,1,Net Banking
+2023,23-01-2024,5010,Customer_542,,West Bengal,Bronze,Arjun,Phone,Electronics,10,25000,0.11,27500,222500,16,3,3,0,UPI
+2024,24-01-2024,5080,Customer_702,Kolkata,West Bengal,Silver,Vikram,Accessories,Accessories,8,3500,0.09,2520,25480,4,3,3,0,Credit Card
+2025,25-01-2024,5016,Customer_453,,Tamil Nadu,Silver,Sunita,Monitor,Electronics,2,35000,0.06,4200,65800,6,3,3.7,1,UPI
+2026,26-01-2024,5054,Customer_987,Mumbai,Maharashtra,Silver,Anjali,Laptop,Electronics,9,65000,0.02,11700,573300,3,5,4.4,1,UPI
+2027,27-01-2024,5095,Customer_657,Bangalore,Karnataka,Bronze,Vikram,Accessories,Accessories,1,3500,0.15,525,2975,9,6,4,1,Credit Card
+2028,28-01-2024,5089,Customer_649,Kolkata,West Bengal,Platinum,Mohan,Phone,Electronics,8,25000,0.04,8000,192000,10,5,3.2,1,UPI
+2029,29-01-2024,5077,Customer_241,Hyderabad,Telangana,Platinum,Arjun,Keyboard,Peripherals,4,2500,0.02,200,9800,14,0,3.6,1,Net Banking
+2030,30-01-2024,5070,Customer_711,Jaipur,Rajasthan,Gold,Sunita,Monitor,Electronics,4,35000,0.08,11200,128800,11,11,2.9,1,UPI
+2031,31-01-2024,5044,Customer_600,Mumbai,Maharashtra,Silver,Sunita,Accessories,Accessories,5,3500,0.16,2800,14700,18,7,2.7,1,Credit Card
+2032,01-02-2024,5073,Customer_939,Jaipur,Rajasthan,Bronze,Sunita,Laptop,Electronics,8,65000,0.15,78000,442000,12,12,4.5,0,UPI
+2033,02-02-2024,5045,Customer_801,Delhi,Delhi,Gold,Anjali,Laptop,Electronics,5,65000,0.01,3250,321750,12,9,3.2,1,UPI
+2034,03-02-2024,5100,Customer_646,Hyderabad,Telangana,Gold,Vikram,Tablet,Electronics,8,18000,0.09,12960,131040,13,14,2.9,0,UPI
+2035,04-02-2024,5056,Customer_758,Hyderabad,Telangana,Bronze,Anjali,Tablet,Electronics,10,18000,0.1,18000,162000,13,10,4.2,1,Credit Card
+2036,05-02-2024,5084,Customer_641,Delhi,Delhi,Platinum,Deepa,Webcam,Peripherals,1,4500,0.13,585,3915,19,12,4,1,Credit Card
+2037,06-02-2024,5082,Customer_945,Mumbai,Maharashtra,Gold,Priya,Phone,Electronics,10,25000,0.13,32500,217500,19,6,4.1,1,Credit Card
+2038,07-02-2024,5057,Customer_606,Delhi,Delhi,Platinum,Priya,Accessories,Accessories,9,3500,0.07,2205,29295,14,5,3.1,0,Credit Card
+2039,08-02-2024,5021,Customer_695,Jaipur,Rajasthan,Gold,Deepa,Accessories,Accessories,6,3500,0.11,2310,18690,4,5,3.1,0,Credit Card
+2040,09-02-2024,5068,Customer_980,Chennai,Tamil Nadu,Silver,Vikram,Webcam,Peripherals,3,4500,0.1,1350,12150,13,4,3.1,1,UPI
+2041,10-02-2024,5050,Customer_380,Hyderabad,Telangana,Silver,Mohan,Keyboard,Peripherals,8,2500,0.18,3600,16400,8,5,2.9,0,Credit Card
+2042,11-02-2024,5033,Customer_523,Pune,Maharashtra,Platinum,Anjali,Keyboard,Peripherals,9,2500,0.11,2475,20025,19,11,4.1,1,Cash
+2043,12-02-2024,5091,Customer_955,Pune,Maharashtra,Gold,Arjun,Webcam,Peripherals,6,4500,0.09,2430,24570,12,8,4.6,0,Credit Card
+2044,13-02-2024,5007,Customer_369,Jaipur,Rajasthan,Bronze,Sunita,Keyboard,Peripherals,7,2500,0.08,1400,16100,18,9,4.3,0,Debit Card
+2045,14-02-2024,5070,Customer_253,Bangalore,Karnataka,Bronze,Sunita,Tablet,Electronics,1,18000,0.11,1980,16020,6,8,4.5,0,UPI
+2046,15-02-2024,5015,Customer_713,Kolkata,West Bengal,Silver,Vikram,Accessories,Accessories,5,3500,0.16,2800,14700,18,14,3.5,1,Debit Card
+2047,16-02-2024,5082,Customer_826,Delhi,Delhi,Gold,Mohan,Webcam,Peripherals,5,4500,0.11,2475,20025,19,9,4.1,1,Debit Card
+2048,17-02-2024,5032,Customer_761,Delhi,Delhi,Platinum,Priya,Accessories,Accessories,10,3500,0.13,4550,30450,5,7,3.4,0,Credit Card
+2049,18-02-2024,5075,Customer_182,Bangalore,Karnataka,Bronze,Priya,Laptop,Electronics,4,65000,0.15,39000,221000,9,9,3.8,0,Cash
+2050,19-02-2024,5020,Customer_721,Bangalore,Karnataka,Silver,Sunita,Tablet,Electronics,6,18000,0.1,10800,97200,3,8,3.7,1,UPI
+2051,20-02-2024,5088,Customer_998,Jaipur,Rajasthan,Silver,Vikram,Monitor,Electronics,7,35000,0.09,22050,222950,10,12,2.9,0,UPI
+2052,21-02-2024,5015,Customer_525,Jaipur,Rajasthan,Platinum,Anjali,Tablet,Electronics,9,18000,0.18,29160,132840,19,9,3.5,1,Debit Card
+2053,22-02-2024,5048,Customer_374,Bangalore,Karnataka,Gold,Priya,Webcam,Peripherals,1,4500,0.08,360,4140,3,7,4.9,1,Net Banking
+2054,23-02-2024,5071,Customer_812,Hyderabad,Telangana,Gold,Anjali,Monitor,Electronics,6,35000,0.09,18900,191100,15,7,3.1,0,UPI
+2055,24-02-2024,5021,Customer_383,,Rajasthan,Silver,Mohan,Laptop,Electronics,7,65000,0.2,91000,364000,1,0,2.8,0,UPI
+2056,25-02-2024,5042,Customer_272,Chennai,Tamil Nadu,Silver,Priya,Webcam,Peripherals,3,4500,0,0,13500,7,9,3.5,1,UPI
+2057,26-02-2024,5026,Customer_426,Jaipur,Rajasthan,Bronze,Priya,Phone,Electronics,8,25000,0.04,8000,192000,12,10,4.5,1,UPI
+2058,27-02-2024,5014,Customer_817,Delhi,Delhi,Bronze,Ravi,Accessories,Accessories,5,3500,0.08,1400,16100,17,4,,1,Debit Card
+2059,28-02-2024,5057,Customer_162,Jaipur,Rajasthan,Gold,Priya,Laptop,Electronics,9,65000,0.19,111150,473850,5,3,4.2,0,Credit Card
+2060,29-02-2024,5037,Customer_172,Hyderabad,Telangana,Gold,Deepa,Accessories,Accessories,5,3500,0.01,175,17325,4,1,,1,UPI
+2061,01-03-2024,5058,Customer_862,Bangalore,Karnataka,Platinum,,Keyboard,Peripherals,9,2500,0,0,22500,12,7,4,0,Credit Card
+2062,02-03-2024,5021,Customer_735,Delhi,Delhi,Platinum,Deepa,Phone,Electronics,10,25000,0.01,2500,247500,18,2,3.3,1,UPI
+2063,03-03-2024,5082,Customer_474,Jaipur,Rajasthan,Silver,Vikram,Phone,Electronics,4,25000,0.02,2000,98000,17,3,4.6,1,UPI
+2064,04-03-2024,5069,Customer_732,Hyderabad,Telangana,Gold,Vikram,Laptop,Electronics,9,65000,0.01,5850,579150,19,11,4.1,0,Debit Card
+2065,05-03-2024,5003,Customer_607,Chennai,Tamil Nadu,Platinum,,Phone,Electronics,5,25000,0.1,12500,112500,9,6,3,0,Cash
+2066,06-03-2024,5087,Customer_886,Jaipur,Rajasthan,Gold,Deepa,Monitor,Electronics,10,35000,0.12,42000,308000,4,9,2.7,0,Net Banking
+2067,07-03-2024,5090,Customer_497,Hyderabad,Telangana,Bronze,Deepa,Phone,Electronics,9,25000,0.05,11250,213750,2,8,2.6,0,UPI
+2068,08-03-2024,5037,Customer_219,Chennai,Tamil Nadu,Silver,Deepa,Accessories,Accessories,3,3500,0.08,840,9660,4,1,3.4,0,Net Banking
+2069,09-03-2024,5088,Customer_536,Bangalore,Karnataka,Bronze,Mohan,Accessories,Accessories,4,3500,0.02,280,13720,2,2,3.2,0,Debit Card
+2070,10-03-2024,5049,Customer_928,Jaipur,Rajasthan,Platinum,Priya,Webcam,Peripherals,9,4500,0.07,2835,37665,15,3,4.1,1,Debit Card
+2071,11-03-2024,5019,Customer_775,Chennai,Tamil Nadu,Silver,Arjun,Accessories,Accessories,10,3500,0.1,3500,31500,2,9,3.7,1,Credit Card
+2072,12-03-2024,5089,Customer_564,Delhi,Delhi,Bronze,Anjali,Webcam,Peripherals,6,4500,0.15,4050,22950,4,0,3.2,0,Credit Card
+2073,13-03-2024,5085,Customer_385,Bangalore,Karnataka,Gold,Deepa,Accessories,Accessories,2,3500,0,0,7000,6,6,,1,UPI
+2074,14-03-2024,5012,Customer_364,Delhi,Delhi,Silver,Deepa,Monitor,Electronics,7,35000,,22050,222950,7,1,2.8,0,UPI
+2075,15-03-2024,5061,Customer_419,Pune,Maharashtra,Silver,Ravi,Webcam,Peripherals,2,4500,0.06,540,8460,10,4,4.7,1,UPI
+2076,16-03-2024,5041,Customer_772,Mumbai,Maharashtra,Bronze,Anjali,Tablet,Electronics,2,18000,0.17,6120,29880,19,14,3.1,0,UPI
+2077,17-03-2024,5033,Customer_475,Jaipur,Rajasthan,Gold,Deepa,Keyboard,Peripherals,1,2500,0.14,350,2150,19,0,4.1,1,Credit Card
+2078,18-03-2024,5050,Customer_919,Chennai,Tamil Nadu,Silver,Anjali,Laptop,Electronics,3,65000,0.12,23400,171600,12,2,4.5,1,Debit Card
+2079,19-03-2024,5068,Customer_188,Mumbai,Maharashtra,Gold,Priya,Accessories,Accessories,6,3500,0.06,1260,19740,3,11,4,1,Credit Card
+2080,20-03-2024,5071,Customer_753,Mumbai,Maharashtra,Silver,Ravi,Phone,Electronics,8,25000,0.18,36000,164000,13,1,4.6,1,UPI
+2081,21-03-2024,5086,Customer_302,Chennai,Tamil Nadu,Gold,Anjali,Accessories,Accessories,9,3500,0.01,315,31185,18,0,3.5,0,Cash
+2082,22-03-2024,5033,Customer_920,Bangalore,Karnataka,Silver,Arjun,Phone,Electronics,7,25000,0.02,3500,171500,8,6,4.9,1,Net Banking
+2083,23-03-2024,5081,Customer_838,Jaipur,Rajasthan,Silver,Arjun,Keyboard,Peripherals,4,2500,0.08,800,9200,15,4,2.8,0,Debit Card
+2084,24-03-2024,5024,Customer_433,Pune,Maharashtra,Platinum,Vikram,Keyboard,Peripherals,6,2500,0.02,300,14700,1,0,2.8,0,Cash
+2085,25-03-2024,5061,Customer_321,Delhi,Delhi,Silver,Ravi,Keyboard,Peripherals,5,2500,,2375,10125,3,5,4.1,0,Credit Card
+2086,26-03-2024,5061,Customer_140,Hyderabad,Telangana,Bronze,Ravi,Phone,Electronics,8,25000,0.16,32000,168000,8,4,4.9,1,Cash
+2087,27-03-2024,5098,Customer_807,Delhi,Delhi,Bronze,Vikram,Accessories,Accessories,1,3500,0.05,175,3325,4,14,4.5,0,UPI
+2088,28-03-2024,5028,Customer_167,Hyderabad,Telangana,Gold,Anjali,Keyboard,Peripherals,1,2500,0.12,300,2200,16,2,2.7,1,Credit Card
+2089,29-03-2024,5058,Customer_875,Delhi,Delhi,Silver,Ravi,Monitor,Electronics,6,35000,0.2,42000,168000,10,11,3.2,1,UPI
+2090,30-03-2024,5043,Customer_613,Chennai,Tamil Nadu,Gold,Arjun,Webcam,Peripherals,10,4500,0.18,8100,36900,12,6,4.8,1,UPI
+2091,31-03-2024,5041,Customer_972,Pune,Maharashtra,Bronze,Arjun,Phone,Electronics,2,25000,0.12,6000,44000,14,10,3.1,1,UPI
+2092,01-04-2024,5039,Customer_736,Jaipur,Rajasthan,Bronze,Deepa,Phone,Electronics,5,25000,0.18,22500,102500,14,9,4.5,1,Debit Card
+2093,02-04-2024,5086,Customer_721,Hyderabad,Telangana,Bronze,Priya,Accessories,Accessories,1,3500,0.2,700,2800,2,8,,0,Debit Card
+2094,03-04-2024,5049,Customer_697,Jaipur,Rajasthan,Silver,Ravi,Phone,Electronics,7,25000,0.15,26250,148750,5,13,3.7,0,Credit Card
+2095,04-04-2024,5017,Customer_731,Jaipur,Rajasthan,Silver,Anjali,Phone,Electronics,1,25000,0.01,250,24750,5,12,3.5,0,UPI
+2096,05-04-2024,5098,Customer_226,Jaipur,Rajasthan,Silver,Vikram,Keyboard,Peripherals,4,2500,0.08,800,9200,6,12,3.6,0,Net Banking
+2097,06-04-2024,5070,Customer_354,Kolkata,West Bengal,Silver,Vikram,Accessories,Accessories,9,3500,0.17,5355,26145,13,8,3.1,0,Debit Card
+2098,07-04-2024,5070,Customer_794,Bangalore,Karnataka,Platinum,Anjali,Keyboard,Peripherals,1,2500,0.05,125,2375,9,13,,0,Credit Card
+2099,08-04-2024,5098,Customer_115,Delhi,Delhi,Bronze,Mohan,Webcam,Peripherals,4,4500,0.17,3060,14940,15,8,3.6,1,Debit Card
+2100,09-04-2024,5065,Customer_576,Jaipur,Rajasthan,Silver,Sunita,Webcam,Peripherals,6,4500,0.02,540,26460,14,1,4.7,1,UPI
+2101,10-04-2024,5074,Customer_161,Delhi,Delhi,Gold,Priya,Keyboard,Peripherals,6,2500,0.01,150,14850,7,2,2.8,0,UPI
+2102,11-04-2024,5085,Customer_980,Jaipur,Rajasthan,Silver,Vikram,Webcam,Peripherals,8,4500,,2880,33120,2,6,5,1,Net Banking
+2103,12-04-2024,5005,Customer_531,Hyderabad,Telangana,Silver,Ravi,Accessories,Accessories,1,3500,0.01,35,3465,7,4,3.6,0,UPI
+2104,13-04-2024,5002,Customer_769,Bangalore,Karnataka,Gold,Priya,Laptop,Electronics,7,65000,0.19,86450,368550,6,1,2.6,1,Credit Card
+2105,14-04-2024,5022,Customer_367,Bangalore,Karnataka,Platinum,Ravi,Keyboard,Peripherals,1,2500,0.17,425,2075,17,2,2.6,1,Net Banking
+2106,15-04-2024,5057,Customer_134,Chennai,Tamil Nadu,Bronze,Mohan,Monitor,Electronics,7,35000,0.16,39200,205800,2,9,4.4,1,Debit Card
+2107,16-04-2024,5066,Customer_878,Kolkata,West Bengal,Platinum,Arjun,Monitor,Electronics,3,35000,0.13,13650,91350,3,5,,1,UPI
+2108,17-04-2024,5074,Customer_675,Chennai,Tamil Nadu,Silver,Priya,Phone,Electronics,8,25000,0.04,8000,192000,5,12,4.5,1,UPI
+2109,18-04-2024,5098,Customer_593,Chennai,Tamil Nadu,Bronze,Deepa,Webcam,Peripherals,3,4500,0.1,1350,12150,5,6,2.8,1,UPI
+2110,19-04-2024,5016,Customer_661,Chennai,Tamil Nadu,Silver,Vikram,Monitor,Electronics,1,35000,0.12,4200,30800,1,8,,1,Debit Card
+2111,20-04-2024,5051,Customer_568,Chennai,Tamil Nadu,Platinum,Priya,Phone,Electronics,8,25000,,22000,178000,8,0,3.8,1,Credit Card
+2112,21-04-2024,5039,Customer_866,Chennai,Tamil Nadu,Silver,Priya,Laptop,Electronics,3,65000,0.05,9750,185250,12,10,,1,UPI
+2113,22-04-2024,5086,Customer_760,Pune,Maharashtra,Bronze,Priya,Accessories,Accessories,2,3500,0.1,700,6300,4,6,3.7,0,Cash
+2114,23-04-2024,5076,Customer_424,,Karnataka,Silver,Sunita,Accessories,Accessories,1,3500,0.1,350,3150,13,7,5,0,Credit Card
+2115,24-04-2024,5088,Customer_403,Chennai,Tamil Nadu,Bronze,Priya,Accessories,Accessories,3,3500,0.2,2100,8400,15,11,,0,UPI
+2116,25-04-2024,5040,Customer_375,Jaipur,Rajasthan,Bronze,Ravi,Monitor,Electronics,2,35000,,12600,57400,11,13,4.9,1,Credit Card
+2117,26-04-2024,5038,Customer_968,Bangalore,Karnataka,Bronze,Arjun,Laptop,Electronics,2,65000,0.09,11700,118300,10,2,4.5,1,Debit Card
+2118,27-04-2024,5060,Customer_783,Bangalore,Karnataka,Bronze,Mohan,Monitor,Electronics,6,35000,0.12,25200,184800,3,3,3.4,0,UPI
+2119,28-04-2024,5059,Customer_300,Mumbai,Maharashtra,Bronze,Anjali,Webcam,Peripherals,1,4500,,675,3825,14,9,3.5,1,UPI
+2120,29-04-2024,5010,Customer_544,Pune,Maharashtra,Bronze,Priya,Monitor,Electronics,2,35000,0.01,700,69300,16,5,3.9,1,Net Banking
+2121,30-04-2024,5099,Customer_423,Chennai,Tamil Nadu,Silver,Vikram,Laptop,Electronics,6,65000,0.18,70200,319800,10,9,4.6,1,Credit Card
+2122,01-05-2024,5064,Customer_134,Delhi,Delhi,Bronze,Priya,Laptop,Electronics,3,65000,0.17,33150,161850,10,6,2.7,1,Credit Card
+2123,02-05-2024,5063,Customer_581,Hyderabad,Telangana,Bronze,Vikram,Webcam,Peripherals,4,4500,0.09,1620,16380,12,12,3.6,1,Credit Card
+2124,03-05-2024,5049,Customer_827,Kolkata,West Bengal,Platinum,Ravi,Laptop,Electronics,1,65000,0.08,5200,59800,9,13,2.7,0,UPI
+2125,04-05-2024,5064,Customer_579,Jaipur,Rajasthan,Silver,Vikram,Laptop,Electronics,8,65000,0.05,26000,494000,1,3,3.8,1,UPI
+2126,05-05-2024,5032,Customer_164,Delhi,Delhi,Gold,Deepa,Accessories,Accessories,7,3500,0.1,2450,22050,5,7,4.7,0,Credit Card
+2127,06-05-2024,5007,Customer_107,Pune,Maharashtra,Bronze,Anjali,Webcam,Peripherals,7,4500,0.01,315,31185,8,4,4.5,1,UPI
+2128,07-05-2024,5021,Customer_400,Hyderabad,Telangana,Bronze,Arjun,Tablet,Electronics,3,18000,0.17,9180,44820,11,0,3.1,0,UPI
+2129,08-05-2024,5020,Customer_442,Pune,Maharashtra,Bronze,Vikram,Tablet,Electronics,10,18000,0.01,1800,178200,12,3,4.9,1,Net Banking
+2130,09-05-2024,5026,Customer_530,Jaipur,Rajasthan,Bronze,,Laptop,Electronics,10,65000,0.07,45500,604500,1,2,4.2,1,Cash
+2131,10-05-2024,5068,Customer_523,Bangalore,Karnataka,Bronze,Arjun,Tablet,Electronics,3,18000,0.19,10260,43740,11,8,2.5,0,Debit Card
+2132,11-05-2024,5086,Customer_431,Hyderabad,Telangana,Bronze,,Tablet,Electronics,2,18000,0.15,5400,30600,5,7,3.1,1,Net Banking
+2133,12-05-2024,5015,Customer_537,Bangalore,Karnataka,Bronze,Priya,Laptop,Electronics,1,65000,0.06,3900,61100,15,0,3.2,1,UPI
+2134,13-05-2024,5085,Customer_687,Jaipur,Rajasthan,Bronze,Vikram,Tablet,Electronics,7,18000,0.05,6300,119700,5,10,2.7,1,Cash
+2135,14-05-2024,5079,Customer_273,,Delhi,Silver,Arjun,Monitor,Electronics,7,35000,0,0,245000,12,5,4.9,1,UPI
+2136,15-05-2024,5086,Customer_658,Jaipur,Rajasthan,Bronze,,Phone,Electronics,2,25000,0.14,7000,43000,5,8,3.7,1,Cash
+2137,16-05-2024,5092,Customer_626,Delhi,Delhi,Silver,Deepa,Webcam,Peripherals,7,4500,,315,31185,17,6,4.7,0,Cash
+2138,17-05-2024,5014,Customer_972,Hyderabad,Telangana,Silver,Ravi,Phone,Electronics,8,25000,0.11,22000,178000,17,3,3.3,0,Debit Card
+2139,18-05-2024,5027,Customer_758,Hyderabad,Telangana,Gold,Arjun,Laptop,Electronics,1,65000,0.19,12350,52650,12,12,2.8,0,Cash
+2140,19-05-2024,5040,Customer_125,Chennai,Tamil Nadu,Bronze,Ravi,Accessories,Accessories,9,3500,0.02,630,30870,15,0,3.7,1,Credit Card
+2141,20-05-2024,5058,Customer_919,Pune,Maharashtra,Gold,Deepa,Webcam,Peripherals,7,4500,0.18,5670,25830,15,11,2.8,0,UPI
+2142,21-05-2024,5028,Customer_704,Chennai,Tamil Nadu,Silver,Anjali,Laptop,Electronics,3,65000,0.2,39000,156000,6,1,3.7,1,Credit Card
+2143,22-05-2024,5026,Customer_505,Pune,Maharashtra,Bronze,Priya,Accessories,Accessories,8,3500,,280,27720,12,11,4.8,1,Credit Card
+2144,23-05-2024,5063,Customer_331,Chennai,Tamil Nadu,Platinum,Arjun,Phone,Electronics,7,25000,0.18,31500,143500,18,4,3.8,1,UPI
+2145,24-05-2024,5066,Customer_632,Bangalore,Karnataka,Platinum,Mohan,Laptop,Electronics,8,65000,0.1,52000,468000,14,11,4,1,Debit Card
+2146,25-05-2024,5025,Customer_918,,Telangana,Bronze,Deepa,Webcam,Peripherals,6,4500,0.18,4860,22140,2,10,2.9,1,Cash
+2147,26-05-2024,5003,Customer_649,Delhi,Delhi,Bronze,Deepa,Webcam,Peripherals,9,4500,0.11,4455,36045,9,4,2.6,1,UPI
+2148,27-05-2024,5072,Customer_887,Pune,Maharashtra,Gold,Mohan,Keyboard,Peripherals,5,2500,0.13,1625,10875,5,7,2.8,1,Debit Card
+2149,28-05-2024,5044,Customer_604,Jaipur,Rajasthan,Gold,Sunita,Monitor,Electronics,3,35000,0.11,11550,93450,1,5,4,1,Net Banking
+2150,29-05-2024,5097,Customer_768,Pune,Maharashtra,Bronze,Deepa,Tablet,Electronics,3,18000,0.17,9180,44820,3,7,2.7,1,Net Banking
+2151,30-05-2024,5042,Customer_278,Delhi,Delhi,Bronze,Vikram,Accessories,Accessories,1,3500,0.15,525,2975,6,1,3.4,1,Cash
+2152,31-05-2024,5099,Customer_231,Chennai,Tamil Nadu,Silver,Anjali,Keyboard,Peripherals,8,2500,0.1,2000,18000,5,2,3.9,0,Credit Card
+2153,01-06-2024,5006,Customer_922,Pune,Maharashtra,Silver,Arjun,Tablet,Electronics,2,18000,0.17,6120,29880,5,5,3.5,0,Cash
+2154,02-06-2024,5039,Customer_554,Kolkata,West Bengal,Silver,Mohan,Tablet,Electronics,3,18000,0.05,2700,51300,1,11,2.9,1,Debit Card
+2155,03-06-2024,5052,Customer_447,,Karnataka,Silver,Vikram,Laptop,Electronics,8,65000,0.03,15600,504400,17,12,3.2,1,UPI
+2156,04-06-2024,5023,Customer_639,Hyderabad,Telangana,Silver,Mohan,Tablet,Electronics,8,18000,0.03,4320,139680,19,9,4.8,1,Credit Card
+2157,05-06-2024,5089,Customer_871,Delhi,Delhi,Gold,,Monitor,Electronics,4,35000,0.07,9800,130200,14,2,4.2,1,Debit Card
+2158,06-06-2024,5050,Customer_505,Hyderabad,Telangana,Bronze,Ravi,Webcam,Peripherals,4,4500,,900,17100,12,5,,0,UPI
+2159,07-06-2024,5043,Customer_175,Kolkata,West Bengal,Bronze,Arjun,Keyboard,Peripherals,5,2500,0.19,2375,10125,10,5,2.5,1,Debit Card
+2160,08-06-2024,5019,Customer_678,Pune,Maharashtra,Gold,,Tablet,Electronics,6,18000,0.02,2160,105840,18,1,5,1,Debit Card
+2161,09-06-2024,5069,Customer_953,Pune,Maharashtra,Platinum,Arjun,Laptop,Electronics,5,65000,0.14,45500,279500,11,6,4.2,1,UPI
+2162,10-06-2024,5051,Customer_591,Jaipur,Rajasthan,Silver,Arjun,Monitor,Electronics,7,35000,0.04,9800,235200,2,11,3.3,1,Credit Card
+2163,11-06-2024,5011,Customer_293,Kolkata,West Bengal,Silver,Sunita,Phone,Electronics,2,25000,0.18,9000,41000,18,1,4.7,1,Debit Card
+2164,12-06-2024,5012,Customer_261,Delhi,Delhi,Bronze,Anjali,Webcam,Peripherals,7,4500,0.19,5985,25515,7,5,3.1,0,Credit Card
+2165,13-06-2024,5074,Customer_446,,Rajasthan,Silver,Deepa,Webcam,Peripherals,10,4500,0.09,4050,40950,15,0,3.9,1,UPI
+2166,14-06-2024,5008,Customer_460,Bangalore,Karnataka,Silver,Arjun,Keyboard,Peripherals,7,2500,0.18,3150,14350,11,2,4.1,1,UPI
+2167,15-06-2024,5024,Customer_868,Jaipur,Rajasthan,Bronze,,Webcam,Peripherals,1,4500,0,0,4500,18,1,3.1,1,Credit Card
+2168,16-06-2024,5092,Customer_683,Mumbai,Maharashtra,Bronze,Vikram,Tablet,Electronics,7,18000,0.16,20160,105840,12,6,4.9,1,Net Banking
+2169,17-06-2024,5041,Customer_186,Delhi,Delhi,Silver,Ravi,Laptop,Electronics,5,65000,0.05,16250,308750,6,13,4.4,0,UPI
+2170,18-06-2024,5036,Customer_361,Mumbai,Maharashtra,Bronze,Ravi,Webcam,Peripherals,3,4500,0.18,2430,11070,13,3,3.9,0,Debit Card
+2171,19-06-2024,5085,Customer_313,Kolkata,West Bengal,Bronze,,Webcam,Peripherals,3,4500,0,0,13500,16,7,3,0,UPI
+2172,20-06-2024,5072,Customer_764,Chennai,Tamil Nadu,Bronze,Anjali,Phone,Electronics,4,25000,0.11,11000,89000,18,5,2.6,1,UPI
+2173,21-06-2024,5055,Customer_821,Mumbai,Maharashtra,Bronze,Anjali,Phone,Electronics,2,25000,0.15,7500,42500,10,11,3.3,0,Net Banking
+2174,22-06-2024,5009,Customer_672,Bangalore,Karnataka,Bronze,Vikram,Accessories,Accessories,2,3500,0.05,350,6650,8,9,4.4,0,Debit Card
+2175,23-06-2024,5047,Customer_879,Jaipur,Rajasthan,Platinum,Arjun,Monitor,Electronics,1,35000,0.04,1400,33600,18,3,3.2,1,UPI
+2176,24-06-2024,5015,Customer_361,Chennai,Tamil Nadu,Silver,Ravi,Tablet,Electronics,5,18000,0.02,1800,88200,1,4,3.8,0,Credit Card
+2177,25-06-2024,5048,Customer_829,Jaipur,Rajasthan,Gold,Anjali,Webcam,Peripherals,4,4500,0.07,1260,16740,8,12,4.3,1,UPI
+2178,26-06-2024,5082,Customer_382,Mumbai,Maharashtra,Gold,Arjun,Webcam,Peripherals,10,4500,0.11,4950,40050,6,12,2.8,1,Credit Card
+2179,27-06-2024,5042,Customer_747,Jaipur,Rajasthan,Silver,Mohan,Laptop,Electronics,2,65000,0.02,2600,127400,5,14,4.2,1,Debit Card
+2180,28-06-2024,5060,Customer_566,Kolkata,West Bengal,Bronze,Anjali,Accessories,Accessories,3,3500,0.08,840,9660,15,14,2.7,0,UPI
+2181,29-06-2024,5084,Customer_479,Chennai,Tamil Nadu,Silver,Sunita,Monitor,Electronics,7,35000,0,0,245000,15,8,4.9,0,UPI
+2182,30-06-2024,5070,Customer_461,Kolkata,West Bengal,Silver,Mohan,Accessories,Accessories,7,3500,0.16,3920,20580,2,6,3.7,1,Credit Card
+2183,01-07-2024,5012,Customer_548,Mumbai,Maharashtra,Gold,Deepa,Keyboard,Peripherals,4,2500,0.03,300,9700,1,9,2.9,1,Net Banking
+2184,02-07-2024,5002,Customer_540,Kolkata,West Bengal,Silver,Anjali,Monitor,Electronics,5,35000,0.06,10500,164500,11,13,3.4,1,Cash
+2185,03-07-2024,5007,Customer_192,Bangalore,Karnataka,Bronze,Ravi,Webcam,Peripherals,5,4500,0,0,22500,10,13,3.5,0,UPI
+2186,04-07-2024,5080,Customer_720,Mumbai,Maharashtra,Bronze,Priya,Webcam,Peripherals,6,4500,0.09,2430,24570,18,8,4.4,1,Debit Card
+2187,05-07-2024,5003,Customer_852,Mumbai,Maharashtra,Silver,Mohan,Monitor,Electronics,9,35000,0.17,53550,261450,18,6,4.4,1,Credit Card
+2188,06-07-2024,5003,Customer_966,Mumbai,Maharashtra,Silver,Deepa,Webcam,Peripherals,2,4500,0.08,720,8280,17,11,4,1,Credit Card
+2189,07-07-2024,5027,Customer_523,Delhi,Delhi,Silver,Vikram,Tablet,Electronics,5,18000,0.04,3600,86400,8,0,2.8,1,Debit Card
+2190,08-07-2024,5040,Customer_241,Jaipur,Rajasthan,Silver,Vikram,Monitor,Electronics,3,35000,0.15,15750,89250,15,11,2.9,1,Net Banking
+2191,09-07-2024,5033,Customer_390,Delhi,Delhi,Platinum,Ravi,Accessories,Accessories,4,3500,0.16,2240,11760,8,7,2.7,1,Cash
+2192,10-07-2024,5092,Customer_531,Delhi,Delhi,Silver,Anjali,Monitor,Electronics,10,35000,,10500,339500,17,3,3.9,0,Credit Card
+2193,11-07-2024,5001,Customer_848,Bangalore,Karnataka,Bronze,Arjun,Webcam,Peripherals,6,4500,0.15,4050,22950,12,2,4.7,1,Credit Card
+2194,12-07-2024,5008,Customer_951,Chennai,Tamil Nadu,Bronze,Anjali,Tablet,Electronics,8,18000,0.19,27360,116640,8,13,3.6,0,Debit Card
+2195,13-07-2024,5032,Customer_923,Jaipur,Rajasthan,Bronze,Ravi,Tablet,Electronics,1,18000,0.03,540,17460,14,12,2.9,1,UPI
+2196,14-07-2024,5048,Customer_788,Kolkata,West Bengal,Bronze,Vikram,Keyboard,Peripherals,10,2500,0.15,3750,21250,4,6,3.9,1,Credit Card
+2197,15-07-2024,5004,Customer_752,Pune,Maharashtra,Bronze,Anjali,Accessories,Accessories,8,3500,0.14,3920,24080,1,11,4.5,0,Credit Card
+2198,16-07-2024,5094,Customer_800,Mumbai,Maharashtra,Bronze,Vikram,Phone,Electronics,7,25000,0.09,15750,159250,1,2,4.4,0,Debit Card
+2199,17-07-2024,5070,Customer_148,Kolkata,West Bengal,Bronze,Mohan,Phone,Electronics,1,25000,0.01,250,24750,19,7,4.7,0,UPI
+2200,18-07-2024,5019,Customer_401,Mumbai,Maharashtra,Bronze,Deepa,Monitor,Electronics,2,35000,0.01,700,69300,16,5,3.2,1,UPI
+2201,19-07-2024,5032,Customer_980,Bangalore,Karnataka,Platinum,Arjun,Keyboard,Peripherals,3,2500,0.17,1275,6225,14,4,3,1,Net Banking
+2202,20-07-2024,5009,Customer_289,Mumbai,Maharashtra,Bronze,Mohan,Laptop,Electronics,1,65000,0.2,13000,52000,16,3,4.7,0,UPI
+2203,21-07-2024,5012,Customer_235,Delhi,Delhi,Silver,Vikram,Monitor,Electronics,9,35000,0.14,44100,270900,5,7,,1,Credit Card
+2204,22-07-2024,5011,Customer_654,Jaipur,Rajasthan,Silver,Vikram,Keyboard,Peripherals,8,2500,0.09,1800,18200,9,7,3.3,1,UPI
+2205,23-07-2024,5046,Customer_503,Pune,Maharashtra,Platinum,Priya,Accessories,Accessories,2,3500,0.13,910,6090,2,11,,0,UPI
+2206,24-07-2024,5016,Customer_991,Hyderabad,Telangana,Bronze,Priya,Accessories,Accessories,9,3500,0.12,3780,27720,18,0,4.5,0,UPI
+2207,25-07-2024,5001,Customer_964,Mumbai,Maharashtra,Silver,Mohan,Accessories,Accessories,7,3500,0.08,1960,22540,6,8,4,1,UPI
+2208,26-07-2024,5063,Customer_701,Kolkata,West Bengal,Platinum,Sunita,Accessories,Accessories,9,3500,0.01,315,31185,9,13,4.2,1,Net Banking
+2209,27-07-2024,5021,Customer_906,,Delhi,Gold,Mohan,Accessories,Accessories,6,3500,0.16,3360,17640,1,4,3.4,1,UPI
+2210,28-07-2024,5030,Customer_440,Hyderabad,Telangana,Gold,Priya,Keyboard,Peripherals,6,2500,0.07,1050,13950,9,3,3.8,0,Cash
+2211,29-07-2024,5013,Customer_856,Pune,Maharashtra,Bronze,Vikram,Keyboard,Peripherals,4,2500,0.16,1600,8400,16,5,3.8,0,Credit Card
+2212,30-07-2024,5034,Customer_803,Hyderabad,Telangana,Bronze,Ravi,Tablet,Electronics,10,18000,0.05,9000,171000,13,5,4.6,1,Credit Card
+2213,31-07-2024,5004,Customer_417,Delhi,Delhi,Gold,Mohan,Phone,Electronics,10,25000,0,0,250000,9,1,4.6,0,Credit Card
+2214,01-08-2024,5028,Customer_717,Jaipur,Rajasthan,Platinum,Vikram,Webcam,Peripherals,2,4500,0.03,270,8730,13,7,4.6,0,Credit Card
+2215,02-08-2024,5095,Customer_462,Jaipur,Rajasthan,Silver,Ravi,Accessories,Accessories,7,3500,0.09,2205,22295,9,6,2.5,0,Debit Card
+2216,03-08-2024,5059,Customer_921,Chennai,Tamil Nadu,Silver,Ravi,Laptop,Electronics,5,65000,0.19,61750,263250,11,0,4.4,1,UPI
+2217,04-08-2024,5027,Customer_481,Jaipur,Rajasthan,Bronze,Priya,Webcam,Peripherals,6,4500,0.02,540,26460,4,4,4.4,1,Credit Card
+2218,05-08-2024,5069,Customer_332,Chennai,Tamil Nadu,Gold,,Keyboard,Peripherals,2,2500,0.17,850,4150,2,11,4.2,1,Net Banking
+2219,06-08-2024,5025,Customer_876,Hyderabad,Telangana,Bronze,Anjali,Laptop,Electronics,5,65000,0.11,35750,289250,6,5,4.4,1,Net Banking
+2220,07-08-2024,5003,Customer_443,Bangalore,Karnataka,Bronze,Arjun,Laptop,Electronics,10,65000,0.17,110500,539500,14,3,4.6,0,Net Banking
+2221,08-08-2024,5097,Customer_648,Kolkata,West Bengal,Silver,Priya,Laptop,Electronics,4,65000,0.06,15600,244400,4,1,3.7,1,Credit Card
+2222,09-08-2024,5068,Customer_916,Kolkata,West Bengal,Silver,Priya,Tablet,Electronics,9,18000,0.17,27540,134460,6,12,3.8,0,Debit Card
+2223,10-08-2024,5025,Customer_652,Hyderabad,Telangana,Bronze,Anjali,Keyboard,Peripherals,6,2500,0.15,2250,12750,19,13,2.8,1,Credit Card
+2224,11-08-2024,5020,Customer_628,Mumbai,Maharashtra,Bronze,Arjun,Laptop,Electronics,2,65000,0.05,6500,123500,6,3,3.5,1,Credit Card
+2225,12-08-2024,5034,Customer_955,Mumbai,Maharashtra,Silver,Vikram,Accessories,Accessories,1,3500,0.03,105,3395,2,0,4.1,1,UPI
+2226,13-08-2024,5026,Customer_888,Jaipur,Rajasthan,Bronze,Sunita,Monitor,Electronics,5,35000,0.17,29750,145250,18,6,4.5,0,Credit Card
+2227,14-08-2024,5005,Customer_918,Kolkata,West Bengal,Silver,Mohan,Laptop,Electronics,9,65000,0.19,111150,473850,13,1,3,1,UPI
+2228,15-08-2024,5099,Customer_670,Kolkata,West Bengal,Bronze,Sunita,Tablet,Electronics,6,18000,0.01,1080,106920,9,12,2.8,0,UPI
+2229,16-08-2024,5061,Customer_282,Chennai,Tamil Nadu,Silver,Vikram,Webcam,Peripherals,10,4500,0.15,6750,38250,19,1,4.2,1,Net Banking
+2230,17-08-2024,5092,Customer_140,Bangalore,Karnataka,Silver,Deepa,Keyboard,Peripherals,7,2500,,3150,14350,13,8,2.5,1,UPI
+2231,18-08-2024,5093,Customer_650,Delhi,Delhi,Bronze,Priya,Tablet,Electronics,5,18000,0.17,15300,74700,11,4,2.9,1,UPI
+2232,19-08-2024,5009,Customer_496,Mumbai,Maharashtra,Bronze,Arjun,Laptop,Electronics,10,65000,0.19,123500,526500,1,1,2.6,1,UPI
+2233,20-08-2024,5050,Customer_803,Kolkata,West Bengal,Bronze,Priya,Keyboard,Peripherals,6,2500,0.15,2250,12750,7,10,2.9,1,Net Banking
+2234,21-08-2024,5006,Customer_878,Chennai,Tamil Nadu,Bronze,Ravi,Monitor,Electronics,5,35000,0.09,15750,159250,15,8,3,0,Credit Card
+2235,22-08-2024,5083,Customer_593,Pune,Maharashtra,Platinum,Priya,Laptop,Electronics,9,65000,0.06,35100,549900,1,8,3.5,1,Credit Card
+2236,23-08-2024,5060,Customer_758,Chennai,Tamil Nadu,Bronze,,Tablet,Electronics,6,18000,0.06,6480,101520,12,0,3.5,0,Net Banking
+2237,24-08-2024,5044,Customer_432,Mumbai,Maharashtra,Gold,Vikram,Phone,Electronics,8,25000,0.14,28000,172000,7,10,,1,Net Banking
+2238,25-08-2024,5011,Customer_226,Mumbai,Maharashtra,Bronze,Vikram,Accessories,Accessories,2,3500,0.15,1050,5950,15,2,3.8,1,UPI
+2239,26-08-2024,5066,Customer_657,Chennai,Tamil Nadu,Gold,Vikram,Webcam,Peripherals,9,4500,0.04,1620,38880,19,3,4.3,1,Debit Card
+2240,27-08-2024,5047,Customer_656,Delhi,Delhi,Gold,Sunita,Tablet,Electronics,5,18000,0.17,15300,74700,1,13,2.8,1,Debit Card
+2241,28-08-2024,5073,Customer_100,Hyderabad,Telangana,Silver,Ravi,Keyboard,Peripherals,7,2500,0.14,2450,15050,17,6,3.1,1,Debit Card
+2242,29-08-2024,5085,Customer_267,Mumbai,Maharashtra,Silver,Deepa,Laptop,Electronics,10,65000,,71500,578500,17,9,4.3,0,UPI
+2243,30-08-2024,5088,Customer_719,Chennai,Tamil Nadu,Silver,Deepa,Accessories,Accessories,1,3500,0.09,315,3185,3,3,2.6,1,Net Banking
+2244,31-08-2024,5098,Customer_118,Kolkata,West Bengal,Bronze,Vikram,Laptop,Electronics,10,65000,0.11,71500,578500,12,1,,0,Credit Card
+2245,01-09-2024,5086,Customer_431,Chennai,Tamil Nadu,Platinum,Arjun,Keyboard,Peripherals,5,2500,0.03,375,12125,6,6,4,1,UPI
+2246,02-09-2024,5003,Customer_683,Bangalore,Karnataka,Gold,Sunita,Laptop,Electronics,10,65000,0.04,26000,624000,11,5,4,0,Credit Card
+2247,03-09-2024,5076,Customer_555,Hyderabad,Telangana,Platinum,Anjali,Phone,Electronics,2,25000,0.02,1000,49000,3,2,,0,UPI
+2248,04-09-2024,5092,Customer_208,Pune,Maharashtra,Bronze,Arjun,Accessories,Accessories,6,3500,0.03,630,20370,8,5,3.3,1,UPI
+2249,05-09-2024,5030,Customer_367,Delhi,Delhi,Gold,Mohan,Accessories,Accessories,1,3500,0.09,315,3185,14,10,4.1,0,Debit Card
+2250,06-09-2024,5090,Customer_544,Jaipur,Rajasthan,Platinum,Mohan,Keyboard,Peripherals,3,2500,0.11,825,6675,14,14,2.9,1,UPI
+2251,07-09-2024,5021,Customer_339,Pune,Maharashtra,Bronze,,Webcam,Peripherals,5,4500,0,0,22500,10,5,4.2,0,Credit Card
+2252,08-09-2024,5028,Customer_400,Hyderabad,Telangana,Bronze,Vikram,Phone,Electronics,4,25000,0.16,16000,84000,2,11,4.4,0,Credit Card
+2253,09-09-2024,5090,Customer_701,Hyderabad,Telangana,Gold,Anjali,Tablet,Electronics,3,18000,0.06,3240,50760,14,4,5,1,UPI
+2254,10-09-2024,5062,Customer_202,Hyderabad,Telangana,Silver,Anjali,Laptop,Electronics,10,65000,0.18,117000,533000,9,3,3,0,Cash
+2255,11-09-2024,5033,Customer_349,Pune,Maharashtra,Gold,Sunita,Monitor,Electronics,5,35000,0.19,33250,141750,3,9,4.6,0,UPI
+2256,12-09-2024,5085,Customer_552,Kolkata,West Bengal,Bronze,Anjali,Laptop,Electronics,8,65000,0.04,20800,499200,8,11,3.8,1,UPI
+2257,13-09-2024,5035,Customer_619,Hyderabad,Telangana,Gold,Mohan,Laptop,Electronics,4,65000,0.09,23400,236600,16,14,3.4,0,UPI
+2258,14-09-2024,5052,Customer_252,Chennai,Tamil Nadu,Bronze,Ravi,Tablet,Electronics,1,18000,0,0,18000,2,0,2.8,1,UPI
+2259,15-09-2024,5034,Customer_958,Pune,Maharashtra,Bronze,Vikram,Laptop,Electronics,7,65000,0.12,54600,400400,6,9,4.3,0,UPI
+2260,16-09-2024,5041,Customer_273,Jaipur,Rajasthan,Bronze,Anjali,Phone,Electronics,8,25000,0.12,24000,176000,12,5,3.1,0,Debit Card
+2261,17-09-2024,5051,Customer_442,Hyderabad,Telangana,Gold,Sunita,Phone,Electronics,3,25000,0.05,3750,71250,5,1,3.4,1,Cash
+2262,18-09-2024,5047,Customer_769,Chennai,Tamil Nadu,Gold,Mohan,Accessories,Accessories,6,3500,0.11,2310,18690,2,12,2.7,0,UPI
+2263,19-09-2024,5082,Customer_530,Kolkata,West Bengal,Silver,Ravi,Keyboard,Peripherals,2,2500,0.05,250,4750,16,2,4.5,0,Debit Card
+2264,20-09-2024,5058,Customer_826,Bangalore,Karnataka,Silver,Priya,Webcam,Peripherals,7,4500,0.03,945,30555,5,13,4.4,0,Debit Card
+2265,21-09-2024,5075,Customer_788,,West Bengal,Platinum,Priya,Monitor,Electronics,8,35000,0.13,36400,243600,15,7,4.3,0,Net Banking
+2266,22-09-2024,5057,Customer_786,Jaipur,Rajasthan,Silver,Ravi,Laptop,Electronics,6,65000,0.07,27300,362700,12,9,3.2,1,Credit Card
+2267,23-09-2024,5023,Customer_951,Hyderabad,Telangana,Gold,Mohan,Laptop,Electronics,6,65000,0.12,46800,343200,4,13,2.9,0,UPI
+2268,24-09-2024,5048,Customer_949,Jaipur,Rajasthan,Silver,Sunita,Tablet,Electronics,5,18000,0.09,8100,81900,15,13,4.1,1,UPI
+2269,25-09-2024,5022,Customer_757,Pune,Maharashtra,Silver,Ravi,Keyboard,Peripherals,8,2500,0.2,4000,16000,11,5,3.7,1,Debit Card
+2270,26-09-2024,5017,Customer_423,Mumbai,Maharashtra,Silver,Vikram,Phone,Electronics,1,25000,0.03,750,24250,16,2,2.9,1,Net Banking
+2271,27-09-2024,5069,Customer_772,,Telangana,Bronze,Vikram,Monitor,Electronics,10,35000,0.09,31500,318500,6,6,4.2,1,UPI
+2272,28-09-2024,5011,Customer_738,Mumbai,Maharashtra,Gold,Priya,Accessories,Accessories,4,3500,0.14,1960,12040,14,3,5,0,Credit Card
+2273,29-09-2024,5094,Customer_519,Chennai,Tamil Nadu,Silver,Anjali,Phone,Electronics,4,25000,0.08,8000,92000,18,13,4.4,1,Net Banking
+2274,30-09-2024,5015,Customer_693,Bangalore,Karnataka,Bronze,Sunita,Keyboard,Peripherals,3,2500,0.19,1425,6075,12,8,4.3,0,Net Banking
+2275,01-10-2024,5091,Customer_584,Delhi,Delhi,Platinum,Priya,Webcam,Peripherals,3,4500,0.14,1890,11610,11,14,4.9,1,Cash
+2276,02-10-2024,5035,Customer_758,Jaipur,Rajasthan,Silver,Anjali,Accessories,Accessories,4,3500,0.13,1820,12180,13,4,3,1,Debit Card
+2277,03-10-2024,5033,Customer_850,Kolkata,West Bengal,Silver,Anjali,Webcam,Peripherals,1,4500,0.15,675,3825,11,2,,0,Credit Card
+2278,04-10-2024,5084,Customer_511,Bangalore,Karnataka,Platinum,Deepa,Tablet,Electronics,2,18000,0.19,6840,29160,16,1,4.9,1,Credit Card
+2279,05-10-2024,5016,Customer_183,Hyderabad,Telangana,Silver,Vikram,Tablet,Electronics,9,18000,0.18,29160,132840,15,10,2.9,1,Debit Card
+2280,06-10-2024,5034,Customer_212,Mumbai,Maharashtra,Bronze,Mohan,Laptop,Electronics,10,65000,0.14,91000,559000,15,1,4.3,0,UPI
+2281,07-10-2024,5066,Customer_836,Kolkata,West Bengal,Platinum,Arjun,Webcam,Peripherals,2,4500,0.15,1350,7650,4,2,4,0,Credit Card
+2282,08-10-2024,5099,Customer_431,Mumbai,Maharashtra,Silver,Mohan,Keyboard,Peripherals,5,2500,0.03,375,12125,11,1,4,1,Debit Card
+2283,09-10-2024,5040,Customer_477,Pune,Maharashtra,Bronze,Arjun,Monitor,Electronics,9,35000,0.02,6300,308700,19,13,,1,UPI
+2284,10-10-2024,5028,Customer_854,Mumbai,Maharashtra,Bronze,Ravi,Accessories,Accessories,9,3500,0.11,3465,28035,15,3,4.8,1,Debit Card
+2285,11-10-2024,5047,Customer_754,Pune,Maharashtra,Gold,Vikram,Phone,Electronics,8,25000,0,0,200000,4,1,4.5,1,Credit Card
+2286,12-10-2024,5039,Customer_140,Chennai,Tamil Nadu,Silver,Anjali,Keyboard,Peripherals,1,2500,0.1,250,2250,13,9,2.6,1,Cash
+2287,13-10-2024,5070,Customer_869,Kolkata,West Bengal,Silver,Sunita,Keyboard,Peripherals,1,2500,0.04,100,2400,19,8,4.6,1,UPI
+2288,14-10-2024,5073,Customer_896,Kolkata,West Bengal,Platinum,Arjun,Tablet,Electronics,9,18000,0.07,11340,150660,2,1,3.1,0,UPI
+2289,15-10-2024,5020,Customer_204,Delhi,Delhi,Gold,Mohan,Webcam,Peripherals,8,4500,,5760,30240,14,8,3.4,0,Debit Card
+2290,16-10-2024,5001,Customer_301,Hyderabad,Telangana,Bronze,Anjali,Laptop,Electronics,10,65000,0.19,123500,526500,4,12,3.7,1,UPI
+2291,17-10-2024,5072,Customer_549,Pune,Maharashtra,Bronze,Arjun,Laptop,Electronics,9,65000,0.01,5850,579150,16,5,3.7,1,Debit Card
+2292,18-10-2024,5087,Customer_918,Delhi,Delhi,Bronze,Arjun,Accessories,Accessories,7,3500,0.11,2695,21805,14,0,3.6,0,Debit Card
+2293,19-10-2024,5063,Customer_942,Mumbai,Maharashtra,Gold,Deepa,Tablet,Electronics,3,18000,0.18,9720,44280,15,3,4.8,0,UPI
+2294,20-10-2024,5067,Customer_365,Mumbai,Maharashtra,Bronze,Arjun,Keyboard,Peripherals,3,2500,0.02,150,7350,3,14,4.3,1,Credit Card
+2295,21-10-2024,5004,Customer_309,Delhi,Delhi,Silver,Sunita,Monitor,Electronics,2,35000,0.16,11200,58800,8,13,4.1,1,Credit Card
+2296,22-10-2024,5058,Customer_662,Kolkata,West Bengal,Gold,Vikram,Tablet,Electronics,5,18000,0.07,6300,83700,16,0,2.6,1,Credit Card
+2297,23-10-2024,5025,Customer_217,Mumbai,Maharashtra,Platinum,Sunita,Accessories,Accessories,3,3500,0.06,630,9870,10,13,4.8,1,Net Banking
+2298,24-10-2024,5047,Customer_812,Jaipur,Rajasthan,Bronze,Priya,Accessories,Accessories,6,3500,0.2,4200,16800,4,5,4.8,0,Net Banking
+2299,25-10-2024,5038,Customer_476,Chennai,Tamil Nadu,Gold,Anjali,Tablet,Electronics,2,18000,0.04,1440,34560,18,13,,0,Debit Card
+2300,26-10-2024,5015,Customer_650,Chennai,Tamil Nadu,Bronze,Vikram,Accessories,Accessories,3,3500,0.14,1470,9030,2,12,2.5,0,Debit Card
+2255,11-09-2024,5033,Customer_349,Pune,Maharashtra,Gold,Sunita,Monitor,Electronics,5,35000,0.19,33250,141750,3,9,4.6,0,UPI
+2058,27-02-2024,5014,Customer_817,Delhi,Delhi,Bronze,Ravi,Accessories,Accessories,5,3500,0.08,1400,16100,17,4,,1,Debit Card
+2151,30-05-2024,5042,Customer_278,Delhi,Delhi,Bronze,Vikram,Accessories,Accessories,1,3500,0.15,525,2975,6,1,3.4,1,Cash
+2067,07-03-2024,5090,Customer_497,Hyderabad,Telangana,Bronze,Deepa,Phone,Electronics,9,25000,0.05,11250,213750,2,8,2.6,0,UPI
+2115,24-04-2024,5088,Customer_403,Chennai,Tamil Nadu,Bronze,Priya,Accessories,Accessories,3,3500,0.2,2100,8400,15,11,,0,UPI
+2281,07-10-2024,5066,Customer_836,Kolkata,West Bengal,Platinum,Arjun,Webcam,Peripherals,2,4500,0.15,1350,7650,4,2,4,0,Credit Card
+2205,23-07-2024,5046,Customer_503,Pune,Maharashtra,Platinum,Priya,Accessories,Accessories,2,3500,0.13,910,6090,2,11,,0,UPI
+2250,06-09-2024,5090,Customer_544,Jaipur,Rajasthan,Platinum,Mohan,Keyboard,Peripherals,3,2500,0.11,825,6675,14,14,2.9,1,UPI
+2038,07-02-2024,5057,Customer_606,Delhi,Delhi,Platinum,Priya,Accessories,Accessories,9,3500,0.07,2205,29295,14,5,3.1,0,Credit Card
